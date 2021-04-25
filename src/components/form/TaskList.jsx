@@ -15,7 +15,7 @@ function TaskList() {
             </ul>
 
         ): (
-            <div className="no-tasks">NO TASKS</div>
+            <div className="no-tasks">No Tasks</div>
         )}
             
         </div>
